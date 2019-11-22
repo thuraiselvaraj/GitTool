@@ -1,4 +1,4 @@
-#!/bin/bash
+
 #  
 #       GitTool v1.0 
 #  
